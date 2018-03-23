@@ -1,4 +1,4 @@
-172.96.18.140
-27236
-root
-da2BAFoGzZxP
+ip
+port
+user
+pwd
